@@ -1,0 +1,91 @@
+{"name": "REPLAY TV",
+"image": "https://vlink.lol/vfm/play/etelio/Logox/replay2.png",
+"author": "Información & tutoriales",
+"groups": [
+
+{"name": "IMPORTANTE LEER", 
+"image": "https://cdn-icons-png.flaticon.com/512/5759/5759757.png",
+"stations": [
+
+
+{"name": "<< ESTA LISTA ES 100% GRATIS >>", 
+"info": "¡Que no te engañe ningún estafador!",
+"image": "https://i.ibb.co/rbH67YD/gratis-1kqv.png"},
+
+{"name": "RECUERDA RECARGAR LA LISTA CADA VEZ QUE ACCEDAS", 
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Crystal_128_reload.svg/1200px-Crystal_128_reload.svg.png"},
+
+{"name": "NOTA INFORMATIVA", 
+"image": "https://www.dl.dropboxusercontent.com/s/3e96ngywkpb9g9g/logo-notainformativa.png",
+"info": "Aquí encontrarás todos los canales premium,canales deportivos a nivel internacional,las series y películas premium más actuales y mucho más."},
+
+{"name": "MANTENIMIENTO", 
+"image": "https://static.vecteezy.com/system/resources/thumbnails/018/923/904/small_2x/maintenance-technician-flat-icon-png.png",
+"info": "La lista actualmente se está actualizando, estamos trabajando para un mejor servicio... con tu ayuda siguiremos añadiendo nuevos canales."},
+
+{"name": "HERRAMIENTAS", 
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNWSAa2IyQzjRA1zDG6mkYMBEtM0foHfTDMA&usqp=CAU",
+"info": "todas las apps necesarias para los videos tutoriales la dejaremos fijadas en el grupo."},
+
+{"name": "INFORMACIÓN", 
+"image": "https://cdn-icons-png.flaticon.com/512/8553/8553711.png",
+"info": "Los canales  están alojados en servidores de la propia web, los cuales cuando se cae la señal también se cae la nuestra, solo es volver a sacar el mismo link del canal caido."}]},
+
+{"name": "CUANDO USAR VPN",
+"image": "https://cdn-icons-png.flaticon.com/512/6554/6554321.png",
+"stations": [
+  
+{"name": "INFORMACIÓN VPN", 
+"image": "https://i.ibb.co/JdMXbn5/header-tile-1-1-1-1-2x-1.png",
+"info": "Es posible que se necesite en ocasiones dependiendo del operador de internet usar una vpn para poder visualizar todos los canales. Esto es debido a que hay operadoras que bloquean todo este tipo de contenido. Recomendamos usar las vpn que estan en el grupo.(Solo si no les funciona)"},
+ 
+{"name": "TENER EN CUENTA", 
+"image": "https://www.dl.dropboxusercontent.com/s/iux8zf1obe69np7/logo-precaucion.png",
+"info": "Los enlaces de IPTV son de servidores que en cualquier momento pueden dejar de funcionar. No siempre van a funcionar correctamente aunque siempre intentamos mantenerlo funcionando cambiando servidores y demás cuando se necesita. Por lo que no queremos quejas de ningún tipo si en algún momento deja de funcionar ya que estamos compartiendo nuestro trabajo de forma gratuita y desinteresada como para recibir a cambio quejas sin sentido."}]},
+
+{"name": "DONATIVO VOLUNTARIO", 
+"image": "https://cdn-icons-png.flaticon.com/512/2331/2331920.png",
+"stations": [
+
+{"name": "<< ESTA LISTA ES 100% GRATIS >>", 
+"info": "¡Que no te engañe ningún estafador!",
+"image": "https://i.ibb.co/rbH67YD/gratis-1kqv.png"},
+
+{"name": "NOTA INFORMATIVA", 
+"image": "https://www.dl.dropboxusercontent.com/s/3e96ngywkpb9g9g/logo-notainformativa.png",
+"info": "Puedes hacer una pequeña donación para que sigamos manteniendo esta lista actualizada y activa lo máximo posible y como agradecimiento al trabajo que realizamos."},
+
+{"name": "PAYPAL DONACIONES",
+"info": "Puedes hacer una pequeña donación para que sigamos manteniendo esta lista actualizada y activa lo máximo posible y como agradecimiento al trabajo que realizamos.",
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png",
+"url": "https://paypal.me/etelio79?country.x=CO&locale.x=es_XC",
+"embed": "true"},
+
+{"name": "PAYPAL DONACIONES",
+"info": "Puedes hacer una pequeña donación para que sigamos manteniendo esta lista actualizada y activa lo máximo posible y como agradecimiento al trabajo que realizamos.",
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png",
+"url": "https://paypal.me/etelio79?country.x=CO&locale.x=es_XC",
+"embed": "true"}]},
+
+{"name": "COMO MANTENER LA APP ONLINE", 
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS764-NVzYGMS6oWrjGEHuE-W4iryZtFAH4Mw&usqp=CAU",
+"stations": [
+ 
+{"name": "NOTA INFORMATIVA", 
+"image": "https://www.dl.dropboxusercontent.com/s/3e96ngywkpb9g9g/logo-notainformativa.png",
+"info": "Para mantener la app online existen dos formas: aprender a sacar los link de los canales,para reemplazar los que se caigan o anexar mas canales... la otra forma es dar cualquier donativo como agradecimiento al trabajo que realizamos."},
+
+{"name": "PAYPAL DONACIONES",
+"info": "Puedes hacer una pequeña donación para que sigamos manteniendo esta lista actualizada y activa lo máximo posible y como agradecimiento al trabajo que realizamos.",
+"image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png",
+"url": "https://paypal.me/etelio79?country.x=CO&locale.x=es_XC",
+"embed": "true"}]},
+
+{"name": "VIDEOS TUTORIALES",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuK2AFBipIN9cOxQHjcr4GgxcocEABXeqlg&usqp=CAU",
+"url":"https://vlink.lol/vfm/play/etelio/W3U/tutoriales.txt"},
+
+{"name": "VIDEOS TUTORIALES",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuK2AFBipIN9cOxQHjcr4GgxcocEABXeqlg&usqp=CAU",
+"url":"https://vlink.lol/vfm/play/etelio/W3U/tutoriales.txt"}]}
+
