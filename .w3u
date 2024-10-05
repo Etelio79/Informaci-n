@@ -23,10 +23,6 @@
 "image": "https://static.vecteezy.com/system/resources/thumbnails/018/923/904/small_2x/maintenance-technician-flat-icon-png.png",
 "info": "La lista actualmente se está actualizando, estamos trabajando para un mejor servicio... con tu ayuda siguiremos añadiendo nuevos canales."},
 
-{"name": "HERRAMIENTAS", 
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNWSAa2IyQzjRA1zDG6mkYMBEtM0foHfTDMA&usqp=CAU",
-"info": "todas las apps necesarias para los videos tutoriales la dejaremos fijadas en el grupo."},
-
 {"name": "INFORMACIÓN", 
 "image": "https://cdn-icons-png.flaticon.com/512/8553/8553711.png",
 "info": "Los canales  están alojados en servidores de la propia web, los cuales cuando se cae la señal también se cae la nuestra, solo es volver a sacar el mismo link del canal caido."}]},
@@ -73,7 +69,12 @@
  
 {"name": "NOTA INFORMATIVA", 
 "image": "https://www.dl.dropboxusercontent.com/s/3e96ngywkpb9g9g/logo-notainformativa.png",
-"info": "Para mantener la app online existen dos formas: aprender a sacar los link de los canales,para reemplazar los que se caigan o anexar mas canales... la otra forma es dar cualquier donativo como agradecimiento al trabajo que realizamos."},
+"info": "Para mantener la app online es necesario que aprendas a sacar los link de los canales... para cuando se caiga un canal, repararlo sacando un nuevo link del canal o anexando cualquier canal que saques, a continuación se dejara los vídeos tutoriales para que aprendas."},
+
+
+{"name": "HERRAMIENTAS", 
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNWSAa2IyQzjRA1zDG6mkYMBEtM0foHfTDMA&usqp=CAU",
+"info": "todas las apps necesarias para los videos tutoriales la dejaremos fijadas en el grupo...solo se agregaran los canales qué ustedes saquen y pasen para anexarlo a la app."},
 
 {"name": "PAYPAL DONACIONES",
 "info": "Puedes hacer una pequeña donación para que sigamos manteniendo esta lista actualizada y activa lo máximo posible y como agradecimiento al trabajo que realizamos.",
