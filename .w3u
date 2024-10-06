@@ -1,3 +1,4 @@
+
 {"name": "REPLAY TV",
 "image": "https://vlink.lol/vfm/play/etelio/Logox/replay2.png",
 "author": "Información & tutoriales",
@@ -13,6 +14,12 @@
 
 {"name": "RECUERDA RECARGAR LA LISTA CADA VEZ QUE ACCEDAS", 
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Crystal_128_reload.svg/1200px-Crystal_128_reload.svg.png"},
+
+{"name": "ÚNETE A NUESTRO CANAL DE TELEGRAM", 
+"image": "https://i.ibb.co/JBnyBgk/free-telegram-2690369-2232872.webp",
+"info": "¿Quieres seguir las últimas novedades de la lista? Últimas actualizaciones, nuevas películas, series, etc... ¡Únete al canal de la lista Replay tv! PULSA AQUÍ",
+"url": "https://t.me/+rNnUPt2g7iM3NzE5",
+"embed": "true"},
 
 {"name": "NOTA INFORMATIVA", 
 "image": "https://www.dl.dropboxusercontent.com/s/3e96ngywkpb9g9g/logo-notainformativa.png",
@@ -91,4 +98,3 @@
 {"name": "VIDEOS TUTORIALES",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuK2AFBipIN9cOxQHjcr4GgxcocEABXeqlg&usqp=CAU",
 "url":"https://vlink.lol/vfm/play/etelio/W3U/tutoriales.txt"}]}
-
